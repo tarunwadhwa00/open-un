@@ -7,7 +7,7 @@ table {
 	border:1px solid #34597C;
 	}
 .header {
-	padding:20px 0;
+	padding:10px 0;
 	background:#fff;
 	border-bottom:1px solid #ddd;
 	}
@@ -45,7 +45,7 @@ table {
 	right:10px;
 	}
 #map {
-	margin-top:19px;
+	margin-top:59px;
 	height:485px;
 	box-shadow:0 0 2px #888;
 	}
