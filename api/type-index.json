@@ -5,27 +5,27 @@
         "zoom": "3"
     },
     {
-        "type": "PPLC",
+        "type": "Capital city,
         "descr": "capital of a political entity",
         "zoom": "3"
     },
     {
-        "type": "ADM1",
+        "type": "Province",
         "descr": "first-order administrative division",
         "zoom": "4"
     },
     {
-        "type": "PPLA",
+        "type": "City",
         "descr": "seat of a first-order administrative division",
         "zoom": "4"
     },
     {
-        "type": "ADM2",
+        "type": "District",
         "descr": "second-order administrative division",
         "zoom": "5"
     },
     {
-        "type": "PPLA2",
+        "type": "City",
         "descr": "seat of a second-order administrative division",
         "zoom": "5"
     },
@@ -40,7 +40,7 @@
         "zoom": "6"
     },
     {
-        "type": "PPL",
+        "type": "small city, town, or village",
         "descr": "populated place",
         "zoom": "6"
     },
